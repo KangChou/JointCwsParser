@@ -1,3 +1,9 @@
+Here to add that I found the download address of the ctb dataset.
+
+https://download.csdn.net/download/weixin_41194129/85448924?spm=1001.2014.3001.5503
+
+
+
 ## A Unified Model for Joint Chinese Word Segmentation and Dependency Parsing
 
 This is the code for the paper [A Unified Model for Joint Chinese Word Segmentation and Dependency Parsing](https://arxiv.org/abs/1904.04697)
